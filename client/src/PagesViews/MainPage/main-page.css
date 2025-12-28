@@ -1,0 +1,13 @@
+.view {
+    height: 92vh !important;
+}
+.DetailsDiv {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5%;
+}
+
+.btn {
+    font-weight: lighter;
+    margin: 1.375rem;
+}

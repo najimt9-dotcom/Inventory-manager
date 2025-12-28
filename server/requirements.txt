@@ -1,0 +1,12 @@
+blinker==1.8.2
+click
+flask==2.2.0
+werkzeug==2.2.0
+importlib-metadata==8.5.0
+itsdangerous==2.2.0
+jinja2==3.1.4
+MarkupSafe==2.1.5
+mysql-connector-python==9.0.0
+zipp==3.20.2
+PyYAML
+pandas
