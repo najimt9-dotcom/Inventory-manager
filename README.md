@@ -21,7 +21,7 @@ A web application built with React and Flask, designed for inventory management.
 Open your terminal and run the following commands:
 
 ```bash
-git clone https://github.com/ameentalahmeh/inventory-manager.git
+https://github.com/najimt9-dotcom/Inventory-manager.git
 cd inventory-manager
 ```
 
